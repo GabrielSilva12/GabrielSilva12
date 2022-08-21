@@ -1,4 +1,4 @@
-## Olá , eu sou o Gabriel 👋
+## Olá, eu sou o Gabriel 👋
 <div>
   <a href="https://github.com/GabrielSilva12">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilva12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
